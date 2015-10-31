@@ -1,11 +1,11 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: PickMeUp
+email: 
+description: A telegram bot for dynamic carpooling
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: PickMeup_bot
 github_username:
 
 # Build settings
