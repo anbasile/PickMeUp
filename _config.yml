@@ -1,6 +1,6 @@
 # Site settings
 title: PickMeUp
-email: 
+email: pickmeupbot@gmail.com
 description: A telegram bot for dynamic carpooling
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
