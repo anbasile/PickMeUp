@@ -5,8 +5,8 @@ description: A telegram bot for dynamic carpooling
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: PickMeup_bot
-github_username: https://github.com/kercos
+twitter_username: @PickMeup_bot
+github_username: kercos
 
 # Build settings
 markdown: kramdown
