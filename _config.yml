@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username: PickMeup_bot
-github_username:  kercos
+github_username:  kercos/PickMeUp
 
 # Build settings
 markdown: kramdown
