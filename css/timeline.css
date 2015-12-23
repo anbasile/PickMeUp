@@ -4,10 +4,6 @@
     list-style: none;
 }
 
-.timeline>a {
-    color: black;
-}
-
 .timeline:before {
     content: "";
     position: absolute;
@@ -113,6 +109,10 @@
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
+}
+
+.timeline .timeline-body>a{
+    color:black;
 }
 
 @media(min-width:768px) {
