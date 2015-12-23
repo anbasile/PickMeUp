@@ -1,0 +1,7 @@
+---
+layout: null
+title: 19 Dicembre 2015
+subtitle:
+image: "img/timeline/4.jpg"
+---
+Inagurazione di 3 tratte tra Arco e Riva del Garda. Trentino quotidiano ci dedica [un articolo](http://trentinocorrierealpi.gelocal.it/trento/cronaca/2015/12/23/news/app-per-viaggiare-gratis-in-busa-1.12663928?ref=hftrtnec-2).
