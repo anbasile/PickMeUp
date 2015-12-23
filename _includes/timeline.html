@@ -1,6 +1,8 @@
-      <section id="{{ page.title }}" class="bg-primary"">
+      <section id="{{ page.title }}" class="bg-primary">
           <div class="row">
               <div class="col-lg-8 col-lg-offset-2">
+                  <h2 class="section-heading">Timeline</h2>
+                  <hr class="light">
                 {{ page.content | markdownify }}
                 <ul class="timeline">
                 {% for post in site.posts %}
