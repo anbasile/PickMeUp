@@ -16,10 +16,10 @@ facebook_username: example
 ###############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/portfolio/2.jpg"
     date: "22 Dicembre 2015"
     description: "Aggiunta delle tratte di Riva, Arco e Caltanissetta!"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/portfolio/1.jpg"
     date: "1 Novembre 2015"
     description: "Avvio ufficiale della sperimentazione sulla tratta Trento Port'Aquila-Povo"
 
