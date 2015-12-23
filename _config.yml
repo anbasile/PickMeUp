@@ -16,15 +16,15 @@ facebook_username: example
 ###############
 
 events:
-  - image: "/img/career/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/career/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/spidertocat.png"
+    date: "22 Dicembre 2015"
+    description: "Aggiunta delle tratte di Riva, Arco e Caltanissetta!"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "1 Novembre 2015"
+    description: "Avvio ufficiale della sperimentazione sulla tratta Trento Port'Aquila-Povo"
 
 # First image of the Career timeline
-career-img: "/img/career/default.png"
+career-img: "/img/timeline/default.png"
 
 
 # User setting
