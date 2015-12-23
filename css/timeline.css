@@ -1,6 +1,3 @@
----
----
-
 .timeline {
     position: relative;
     padding: 0;
@@ -70,26 +67,7 @@
     background-color: #f1f1f1;
 }
 
-.img-me {
-    z-index: 100;
-    left: 0;
-    width: 100px;
-    height: 100px;
-    margin-left: 0;
-    border: 7px solid #f1f1f1;
-    border-radius: 100%;
-    text-align: center;
-    color: #fff;
-    background-color: #f1f1f1;
-}
-
 .timeline>li .timeline-image h4 {
-    margin-top: 12px;
-    font-size: 10px;
-    line-height: 14px;
-}
-
-.img-me h4 {
     margin-top: 12px;
     font-size: 10px;
     line-height: 14px;
@@ -157,19 +135,7 @@
         margin-left: -50px;
     }
 
-    .img-me {
-        left: 50%;
-        width: 150px;
-        height: 150px;
-    }
-
     .timeline>li .timeline-image h4 {
-        margin-top: 16px;
-        font-size: 13px;
-        line-height: 18px;
-    }
-
-    .img-me h4 {
         margin-top: 16px;
         font-size: 13px;
         line-height: 18px;
@@ -197,18 +163,7 @@
         margin-left: -75px;
     }
 
-    .img-me {
-        width: 200px;
-        height: 200px;
-    }
-
     .timeline>li .timeline-image h4 {
-        margin-top: 30px;
-        font-size: 18px;
-        line-height: 26px;
-    }
-
-    .img-me h4 {
         margin-top: 30px;
         font-size: 18px;
         line-height: 26px;
@@ -234,16 +189,7 @@
         margin-left: -85px;
     }
 
-    .timeline>li .img-me {
-        width: 200px;
-        height: 200px;
-    }
-
     .timeline>li .timeline-image h4 {
-        margin-top: 40px;
-    }
-
-    .timeline>li .img-me h4 {
         margin-top: 40px;
     }
 

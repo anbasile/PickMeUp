@@ -14,18 +14,9 @@ facebook_username: example
 ###############
 # Life Events #
 ###############
-
-events:
-  - image: "/img/portfolio/2.jpg"
-    date: "22 Dicembre 2015"
-    description: "Aggiunta delle tratte di Riva, Arco e Caltanissetta!"
-  - image: "/img/portfolio/1.jpg"
-    date: "1 Novembre 2015"
-    description: "Avvio ufficiale della sperimentazione sulla tratta Trento Port'Aquila-Povo"
-
-# First image of the Career timeline
-career-img: "/img/timeline/default.png"
-
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
 
 # User setting
 owner: Angelo Basile
